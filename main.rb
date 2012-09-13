@@ -15,10 +15,10 @@ get '/' do
 				}
 				div {
 					color: #898989;
-					margin-top: 250px;
+					margin-top: 150px;
 					font-size: 13px;
 					text-align: center;
-					font-family: Helvetica, Arial, Verdana;
+					font-family: Arial, Verdana;
 					font-weight:bold;
 				}
 
@@ -31,7 +31,7 @@ get '/' do
 			<div>
 				<img src='logo.jpg' />
 				<p>Heavybit is a place fostering the cloud service industry</p>
-				<p class='address'>325 9th Street - San Francisco</p>
+				<p class='address'>333 9th Street - San Francisco</p>
 			</div>
 		</body>
 	</html>"
