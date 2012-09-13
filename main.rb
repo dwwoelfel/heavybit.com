@@ -16,7 +16,6 @@ get '/' do
 				div {
 					color: #898989;
 					margin-top: 150px;
-					font-size: 13px;
 					text-align: center;
 					font-family: Arial, Verdana;
 					font-weight:bold;
