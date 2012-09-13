@@ -1,6 +1,10 @@
 require 'rubygems'
 require 'sinatra'
 
+set :static, true
+set :root, File.dirname(__FILE__)
+set :public_folder, 'public'
+
 get '/' do
   "<html>
 		<head>
