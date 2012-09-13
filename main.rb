@@ -21,13 +21,17 @@ get '/' do
 					font-family: Helvetica, Arial, Verdana;
 					font-weight:bold;
 				}
+
+				.address {
+					margin-top:100px;
+				}
 			</style>
 		</head>
 		<body>
 			<div>
 				<img src='logo.jpg' />
 				<p>Heavybit is a place fostering the cloud service industry</p>
-				<p>325 9th Street - San Francisco</p>
+				<p class='address'>325 9th Street - San Francisco</p>
 			</div>
 		</body>
 	</html>"
