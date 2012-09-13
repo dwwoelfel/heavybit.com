@@ -14,13 +14,15 @@ get '/' do
 					margin-top: 250px;
 					font-size: 40pt;
 					text-align: center;
-					font-family: Verdana;
+					font-family: Helvetica, Arial, Verdana;
 					font-weight: bold;
 				}
 			</style>
 		</head>
 		<body>
 			<div>heavybit</div>
+			<p>Heavybit is a place fostering the cloud service industry</p>
+			<p>325 9th Street - San Francisco</p>
 		</body>
 	</html>"
 end
