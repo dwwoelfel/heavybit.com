@@ -7,10 +7,10 @@ get '/' do
 			<title>heavybit</title>
 			<style>
 				body {
-					background: black;
+					background: #58595b;
 				}
 				div {
-					color: white;
+					color: #898989;
 					margin-top: 250px;
 					font-size: 40pt;
 					text-align: center;
