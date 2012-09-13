@@ -20,9 +20,10 @@ get '/' do
 			</style>
 		</head>
 		<body>
-			<div>heavybit</div>
-			<p>Heavybit is a place fostering the cloud service industry</p>
-			<p>325 9th Street - San Francisco</p>
+			<div>
+				<p>Heavybit is a place fostering the cloud service industry</p>
+				<p>325 9th Street - San Francisco</p>
+			</div>
 		</body>
 	</html>"
 end
