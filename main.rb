@@ -12,10 +12,9 @@ get '/' do
 				div {
 					color: #898989;
 					margin-top: 250px;
-					font-size: 40pt;
+					font-size: 13px;
 					text-align: center;
 					font-family: Helvetica, Arial, Verdana;
-					font-weight: bold;
 				}
 			</style>
 		</head>
