@@ -30,8 +30,6 @@ get '/' do
 		<body>
 			<div>
 				<img src='logo.jpg' />
-				<p>Heavybit is a place fostering the cloud service industry</p>
-				<p class='address'>333 9th Street - San Francisco</p>
 			</div>
 		</body>
 	</html>"
