@@ -14,7 +14,7 @@ get '/' do
 					background: #58595b;
 				}
 				div {
-					color: #898989;
+					color: #E2E3E4;
 					margin-top: 300px;
 					font-size: 13px;
 					text-align: center;
@@ -29,7 +29,7 @@ get '/' do
 		</head>
 		<body>
 			<div>
-				<img src='logo.jpg' /></br>
+				<img src='logo.jpg' /><br/>
 				<a href="http://eepurl.com/uk_nf">Sign Up for News</a>
 			</div>
 		</body>
