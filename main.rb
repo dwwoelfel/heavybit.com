@@ -29,7 +29,8 @@ get '/' do
 		</head>
 		<body>
 			<div>
-				<img src='logo.jpg' />
+				<img src='logo.jpg' /></br>
+				<a href="http://eepurl.com/uk_nf">Sign Up for News</a>
 			</div>
 		</body>
 	</html>"
