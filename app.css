@@ -7,7 +7,6 @@ div {
 	font-size: 13px;
 	text-align: center;
 	font-family: Arial, Verdana;
-	font-weight:bold;
 }
 
 .address {
@@ -16,6 +15,6 @@ div {
 a.newsletter {
   color: #E2E3E4;
   text-decoration: none;
-padding: 40px 0;
+padding: 60px 0;
 display: block;
 }
