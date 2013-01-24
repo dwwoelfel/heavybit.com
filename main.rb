@@ -15,7 +15,7 @@ get '/' do
 				}
 				div {
 					color: #E2E3E4;
-					margin-top: 300px;
+					margin-top: 200px;
 					font-size: 13px;
 					text-align: center;
 					font-family: Arial, Verdana;
@@ -25,11 +25,19 @@ get '/' do
 				.address {
 					margin-top:100px;
 				}
+				a.newsletter {
+				  color: #E2E3E4;
+				  text-decoration: none;
+          padding: 40px 0;
+          display: block;
+				}
+				
 			</style>
 		</head>
 		<body>
 			<div>
-				<img src='logo.jpg' />
+				<img src='logo.jpg' /><br> 
+				<a class='newsletter' href='http://eepurl.com/uk_nf'>Sign Up for News</a>
 			</div>
 		</body>
 	</html>"
