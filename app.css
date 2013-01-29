@@ -3,8 +3,8 @@ body {
 }
 div {
 	color: #E2E3E4;
-	margin-top: 200px;
-	font-size: 13px;
+	margin-top: 100px;
+	font-size: 14px;
 	text-align: center;
 	font-family: Arial, Verdana;
 }
@@ -15,6 +15,6 @@ div {
 a.newsletter {
   color: #E2E3E4;
   text-decoration: none;
-padding: 60px 0;
+padding: 80px 0;
 display: block;
 }
