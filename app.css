@@ -18,3 +18,9 @@ a.newsletter {
 padding: 80px 0;
 display: block;
 }
+a {
+	text-decoration:none;
+}
+a:link {
+	color:#faa635;
+}
