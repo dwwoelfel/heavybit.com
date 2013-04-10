@@ -19,7 +19,7 @@ padding: 80px 0;
 display: block;
 }
 a {
-	text-decoration:none;
+	text-decoration: none !important;
 }
 a:link {
 	color:#faa635;
