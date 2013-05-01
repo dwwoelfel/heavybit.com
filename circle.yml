@@ -1,3 +1,7 @@
+test:
+  override:
+    - echo what could go wrong
+
 deployment:
   production:
     branch: master
